@@ -1,4 +1,4 @@
-module drivers
+module github.com/rhizomplatform/drivers
 
 go 1.13
 
