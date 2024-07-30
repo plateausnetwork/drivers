@@ -11,7 +11,7 @@ import (
 	"fmt"
 
 	b "go.etcd.io/bbolt"
-	"github.com/rhizomplatform/drivers/dbtx"
+	"github.com/plateausnetwork/drivers/dbtx"
 )
 
 // Bolt with locked file with key/values

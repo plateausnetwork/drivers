@@ -11,7 +11,7 @@ import (
 	"time"
 
 	r "github.com/dgraph-io/ristretto"
-	"github.com/rhizomplatform/drivers/dbtx"
+	"github.com/plateausnetwork/drivers/dbtx"
 )
 
 // Cache memory-bound

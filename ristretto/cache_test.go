@@ -1,7 +1,7 @@
 package ristretto_test
 
 import (
-	r "github.com/rhizomplatform/drivers/ristretto"
+	r "github.com/plateausnetwork/drivers/ristretto"
 
 	"bytes"
 	"fmt"

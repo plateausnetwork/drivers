@@ -7,10 +7,10 @@ package drivers
 import (
 	"fmt"
 
-	"github.com/rhizomplatform/drivers/badger"
-	"github.com/rhizomplatform/drivers/bolt"
-	"github.com/rhizomplatform/drivers/dbtx"
-	"github.com/rhizomplatform/drivers/ristretto"
+	"github.com/plateausnetwork/drivers/badger"
+	"github.com/plateausnetwork/drivers/bolt"
+	"github.com/plateausnetwork/drivers/dbtx"
+	"github.com/plateausnetwork/drivers/ristretto"
 )
 
 var (

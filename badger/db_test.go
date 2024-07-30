@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	b "github.com/rhizomplatform/drivers/badger"
-	"github.com/rhizomplatform/drivers/runners"
+	b "github.com/plateausnetwork/drivers/badger"
+	"github.com/plateausnetwork/drivers/runners"
 )
 
 var key = []byte("key")

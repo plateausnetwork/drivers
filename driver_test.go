@@ -3,8 +3,8 @@ package drivers_test
 import (
 	"testing"
 
-	dr "github.com/rhizomplatform/drivers"
-	"github.com/rhizomplatform/drivers/runners"
+	dr "github.com/plateausnetwork/drivers"
+	"github.com/plateausnetwork/drivers/runners"
 )
 
 var key = []byte("key")

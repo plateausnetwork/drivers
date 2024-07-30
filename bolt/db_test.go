@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/rhizomplatform/drivers/bolt"
-	"github.com/rhizomplatform/drivers/runners"
-	"github.com/rhizomplatform/fs"
+	"github.com/plateausnetwork/drivers/bolt"
+	"github.com/plateausnetwork/drivers/runners"
+	"github.com/plateausnetwork/fs"
 )
 
 var key = []byte("key")

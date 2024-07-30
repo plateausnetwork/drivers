@@ -10,7 +10,7 @@ import (
 	"fmt"
 
 	b "github.com/dgraph-io/badger"
-	"github.com/rhizomplatform/drivers/dbtx"
+	"github.com/plateausnetwork/drivers/dbtx"
 )
 
 // Badger with locked instance of badgerdb
